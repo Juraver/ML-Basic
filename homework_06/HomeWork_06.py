@@ -107,6 +107,3 @@ print(f'Расстояние Евклидово = {cal_euclidean(a, b)}')
 print(f'Расстояние Манхеттена = {cal_manhattan(a, b)}')
 print(f'Расстояние Косинусное = {cal_cosine(a, b)}')
 
-
-# GIT.
-###
